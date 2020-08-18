@@ -17,3 +17,8 @@ figure img{
 #nav-bar{ 
     width: 100%;
   }
+  .nav-link{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;    
+}
